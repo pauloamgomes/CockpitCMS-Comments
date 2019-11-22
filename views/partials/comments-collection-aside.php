@@ -1,6 +1,5 @@
 <style>
     .hide-items > .uk-margin:not(.comments) { display: none }
-    .comments { height: 100% }
     .header { padding: 20px }
     .comments-list { background: #f5f5f5; border-radius: 0; max-width: 100%; margin: 0; overflow: auto; resize: none }
     .comment-post { font-size: 16px; line-height: 20px; white-space: pre-line }
